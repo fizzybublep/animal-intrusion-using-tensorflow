@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephant</folder>
+	<filename>ele25.jpg</filename>
+	<path>C:\Users\bobby\Downloads\boi object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\elephant\ele25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1875</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymin>179</ymin>
+			<xmax>1969</xmax>
+			<ymax>1155</ymax>
+		</bndbox>
+	</object>
+</annotation>
