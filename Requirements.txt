@@ -1,0 +1,34 @@
+# Core ML & numerical
+tensorflow>=2.8.0
+numpy
+
+# Computer Vision
+opencv-python
+
+# Visualization
+matplotlib==3.2
+cycler
+kiwisolver
+
+# Serialization / Protobuf
+protobuf==3.20.*
+
+# Utilities
+wget
+pytz
+
+# Serial communication (Arduino)
+pyserial
+
+# Object Detection API dependencies
+pillow
+lxml
+Cython
+contextlib2
+six
+absl-py
+pyyaml
+tqdm
+
+# Git-based utilities (used indirectly)
+requests
