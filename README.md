@@ -5,7 +5,7 @@ The system detects animals (specifically bears, elephants, and tigers) using a w
 This project demonstrates:
 - Transfer learning using pretrained deep learning models
 - End-to-end object detection pipeline
-- Hardware–software integration using serial communication
+- Hardware–software integration using serial communication.
 - Practical application of computer vision for safety systems
 
 # (2) Model & Learning Approach
